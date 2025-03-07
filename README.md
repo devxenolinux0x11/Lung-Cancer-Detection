@@ -50,7 +50,7 @@ pip uninstall -y tensorflow && pip install tensorflow-cpu
 
 1. **Clone the repo**:
    ```bash
-   git clone https://github.com/devxenolinux0x11/Lung-Cancer-Detection-Using-Hybrid-Vision-Transformer-with-Clinical-Feature-Fusion.git
+   git clone https://github.com/devxenolinux0x11/Lung-Cancer-Detection.git
    cd lung-cancer-detection
    ```
 
